@@ -1,0 +1,14 @@
+{
+    "payload": {
+        "schema": 1,
+        "erp": {
+            "base_url": "https://sylloo.app"
+        },
+        "serial": 1,
+        "issued_at": "2026-11-18T06:30:24Z",
+        "release": {
+            "latest_version": "1.0.0"
+        }
+    },
+    "signature": "xq0V408sFkC+XD78/qg508GE8nOD57H8hXav84aYQsHQdGZkbVtPcWhhNR+bcZGYHaz9171lOBP2teE6OMWlCA=="
+}
