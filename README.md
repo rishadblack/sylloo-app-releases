@@ -5,7 +5,7 @@ Sylloo App is the staff window onto your Sylloo business: sign in once with your
 | | Download |
 |---|---|
 | **Windows** (10 and 11, 64-bit) | [sylloo-app-setup.exe](https://github.com/rishadblack/sylloo-app-releases/releases/latest/download/sylloo-app-setup.exe) |
-| **Android** (7.0 and newer) | [sylloo-app.apk](https://github.com/rishadblack/sylloo-app-releases/releases/latest/download/sylloo-app.apk) |
+| **Android** (8.0 and newer) | [sylloo-app.apk](https://github.com/rishadblack/sylloo-app-releases/releases/latest/download/sylloo-app.apk) |
 
 These links always give the newest version. Older versions are on the [Releases](https://github.com/rishadblack/sylloo-app-releases/releases) page.
 

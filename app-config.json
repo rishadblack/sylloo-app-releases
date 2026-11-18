@@ -4,11 +4,11 @@
         "erp": {
             "base_url": "https://sylloo.app"
         },
-        "serial": 2,
-        "issued_at": "2026-11-18T07:03:42Z",
+        "serial": 3,
+        "issued_at": "2026-11-18T17:51:15Z",
         "release": {
-            "latest_version": "1.0.1"
+            "latest_version": "1.0.2"
         }
     },
-    "signature": "gZ4hW8BRHd9CWsGyKZERnw+hBrAYnnP/XKsRnw9f2Q4z3H66tvsvEmC0vUgZjIdKD1wNw474T+qX71rmM07ACw=="
+    "signature": "UczrzsTII59SX897F2n9ta5sHcSXfdqCDMtjUTDKMdeM7Ntbd+gEUSOX0LgPCqKKS7EP4NPIsFwGnuKQZQNJAA=="
 }

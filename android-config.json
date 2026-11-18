@@ -1,0 +1,18 @@
+{
+    "payload": {
+        "schema": 1,
+        "erp": {
+            "base_url": "https://sylloo.app"
+        },
+        "release": {
+            "android": {
+                "url": "https://github.com/rishadblack/sylloo-app-releases/releases/download/v1.0.2/sylloo-app.apk",
+                "sha256": "705d7ccbb1992493b0be8df9cc6c224d7350378c62190f2d527723dc7b4c849b"
+            },
+            "latest_version": "1.0.2"
+        },
+        "serial": 1,
+        "issued_at": "2026-11-18T17:51:22Z"
+    },
+    "signature": "Z3JsuX78JZpbqZZyj8zzucAVMpO3E5KIpExp9ombTHxkz7OFM8/B8ck1mkEu0fjiMhSB4ZfBL3XD6nTDHzeaBg=="
+}
